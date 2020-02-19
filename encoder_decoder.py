@@ -1,4 +1,4 @@
-#encoder
+#encoder and decoder
 """
 a->z
 b->y
